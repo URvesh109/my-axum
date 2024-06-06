@@ -1,5 +1,5 @@
 [package]
-name = "anyhow-error-response"
+name = "eg-anyhow-error-response"
 version = "0.1.0"
 edition = "2021"
 

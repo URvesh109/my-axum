@@ -1,3 +1,9 @@
+//! Run with
+//!
+//! ```not_rust
+//! cargo run -p eg-anyhow-error-response
+//! ```
+
 use axum::{
     http::StatusCode,
     response::{IntoResponse, Response},
